@@ -1,0 +1,20 @@
+ =================
+ about the program
+ =================
+ this program change wrong keyboard language between farsi and english language.
+ for example, It should change "hsl lk Hvdk hsj" to farsi like this "اسم من آرین است" 
+ and "hi my name is Arian" should remain as what it is.
+ tested with Python 3.6.0 on Windows 10 x64
+ ----------------------------------------------------------------------------------------
+ 
+ NOTE: Do not run this with cmd on windows because it does not suport UTF-8, 
+    run this Python Shell
+ ----------------------------------------------------------------------------------------
+ 
+ veasion 0.2
+ ===========
+ change note
+ ===========
+ things that i should add and change:
+    words list are bad and in  (need better words list file)
+    add auto learn new words
