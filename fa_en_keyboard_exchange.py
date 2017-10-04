@@ -1,13 +1,10 @@
 # -------------------------------------------------------------------------------------------------------------------
 # this is a alpha version. need more work
-# writen by Arian Heydari
-#
-# this program change wrong keyboard language between farsi and english language. for example, It should change
-# "hsl lk Hvdk hsj" to farsi like this "اسم من آرین است" and "hi my name is Arian" should remain as what it is.
+# written by Arian Heydari
 #
 # things that i should add and fix:
-#    words list are bad (need better words list)
-#    add auto learn new words
+#    words list are bad (need better words file)
+#    add auto learn  function for new words
 # -------------------------------------------------------------------------------------------------------------------
 
 def binary_search(alist, item):
