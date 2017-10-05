@@ -193,7 +193,6 @@ def translate(input_data):
             return rowInput
     else:
         # it is other language
-        print("fuck this sheet")
         return rowInput
 
 
